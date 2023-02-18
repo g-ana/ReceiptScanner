@@ -1,2 +1,2 @@
 # ReceiptScanner
-Console application with typescript
+Console application with TypeScript
